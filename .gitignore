@@ -20,3 +20,6 @@ binaries
 /log/*.log
 /tmp
 >>>>>>> e4525342b39dd521dbb0d82b5ef17a8c0d50a6ac
+
+# Ignore application configuration
+/config/application.yml
